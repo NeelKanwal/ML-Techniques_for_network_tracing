@@ -18,4 +18,4 @@ There is a log book to understand the details of data. Neural Networks and Rando
 
 ## Conlcusion
 
-In our case where we have ten classes of different traffic, RF will do it well for each class resulting in some accuracy for resemblance with a class and we can classify the flow to highest scoring trees. Problem in this case is choosing a higher estimators for proper validaiton score. for kind of data where as Neural Networks are universal approximators works better for forecasting and Image processing problems.
+In our case where we have ten classes of different traffic, Randorm Fores will do it well for each class resulting in some accuracy for resemblance with a class and we can classify the flow to highest scoring trees. Problem in this case is choosing a higher estimators for proper validaiton score. for kind of data where as Neural Networks are universal approximators works better for forecasting and Image processing problems.
